@@ -1,5 +1,6 @@
 ### I'm Carlos :D
 🐊 Computer Science Student at the University of Florida<br>
+💼 Programming Fundamentals 2 TA@UF
 📍 Gainesville, FL<br>
 📖 Interests: ML/AI, Web, SWE, and Cloud Computing
 
